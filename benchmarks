@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CIP xmlns="https://epbr.digital.communities.gov.uk/nondomestic/cip">
+  <Benchmarks>
+    <Benchmark>
+      <Category>C1</Category>
+      <Name>General Office</Name>
+      <Options>
+        <Option>Adult education centre</Option>
+        <Option>Air traffic control</Option>
+        <Option>Bank office</Option>
+        <Option>Building society office</Option>
+        <Option>Business units</Option>
+        <Option>Call centre</Option>
+        <Option>Central government office</Option>
+        <Option>Commercial office</Option>
+        <Option>Conference centre</Option>
+        <Option>Courts</Option>
+        <Option>Crown and county courts</Option>
+        <Option>Crown court</Option>
+        <Option>Financial service office</Option>
+        <Option>Flight crew facility</Option>
+        <Option>Guardroom</Option>
+        <Option>Law facilities</Option>
+        <Option>Legal/financial services</Option>
+        <Option>Local government office</Option>
+        <Option>Office showroom</Option>
+        <Option>Office with industry</Option>
+        <Option>Offices</Option>
+        <Option>Offices - cellular, naturally ventilated</Option>
+        <Option>Offices - mechanically ventilated and/or air conditioned</Option>
+        <Option>Offices - open plan, naturally ventilated</Option>
+        <Option>Professional / design</Option>
+        <Option>Professional services off street</Option>
+        <Option>Public sector offices</Option>
+        <Option>Simulator</Option>
+        <Option>Studio office</Option>
+        <Option>Town hall</Option>
+        <Option>Warehouse office</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>95</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>120</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>52.3</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>22.8</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>75.1</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>Net Lettable Area (NLA) measured as RICS</ApprovedAlternateMetric>
+      <DefaultMultiplier>1.25</DefaultMultiplier>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S1 Regional server room</Special1>
+      <Special2>S2 Trading floor</Special2>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2040</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>8760</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>1.07</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.44</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>C2</Category>
+      <Name>High Street Agency</Name>
+      <Options>
+        <Option>Bank or building society</Option>
+        <Option>Betting shop</Option>
+        <Option>Estate agents</Option>
+        <Option>Insurance brokers</Option>
+        <Option>Legal/insurance/accountants high street premises</Option>
+        <Option>Post Office</Option>
+        <Option>Public services</Option>
+        <Option>Travel agent</Option>
+        <Option>Undertakers</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>140</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>0</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>77</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>0</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>77</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0.2</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2448</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>3672</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.22</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>C3</Category>
+      <Name>General Retail</Name>
+      <Options>
+        <Option>Amusement arcade</Option>
+        <Option>Beauty salon</Option>
+        <Option>Confectioners, tobacconists, newsagents, off licences</Option>
+        <Option>Dry cleaner</Option>
+        <Option>Garden centres</Option>
+        <Option>Hairdressing salon</Option>
+        <Option>Indoor markets</Option>
+        <Option>Laundrette</Option>
+        <Option>Personal services</Option>
+        <Option>Pet shops</Option>
+        <Option>Petrol filling stations</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>165</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>0</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>90.8</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>0</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>90.8</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>Sales Floor Area (SFA)</ApprovedAlternateMetric>
+      <DefaultMultiplier>1.8</DefaultMultiplier>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0.15</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2448</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>3672</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.22</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>C4</Category>
+      <Name>Large Non-Food Shop</Name>
+      <Options>
+        <Option>Department store</Option>
+        <Option>Departmental and general stores</Option>
+        <Option>Factory shop</Option>
+        <Option>Factory showroom</Option>
+        <Option>Hypermarket</Option>
+        <Option>Large shop</Option>
+        <Option>Retail showroom</Option>
+        <Option>Retail-warehouse</Option>
+        <Option>Shop with industry</Option>
+        <Option>Showroom</Option>
+        <Option>Superstore</Option>
+        <Option>Vehicle showroom</Option>
+        <Option>Warehouse shop</Option>
+        <Option>Warehouse showroom</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>70</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>170</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>38.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>32.3</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>70.8</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>Sales Floor Area (SFA)</ApprovedAlternateMetric>
+      <DefaultMultiplier>1.8</DefaultMultiplier>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2448</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>4284</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.32</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.15</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>C5</Category>
+      <Name>Small Food Store</Name>
+      <Options>
+        <Option>Corner food shops - butchers</Option>
+        <Option>Corner food shops - greengrocers and delicatessens</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>310</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>0</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>170.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>0</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>170.5</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>Sales Floor Area (SFA)</ApprovedAlternateMetric>
+      <DefaultMultiplier>1.35</DefaultMultiplier>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0.15</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2448</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>3672</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.22</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>C6</Category>
+      <Name>Large Food Store</Name>
+      <Options>
+        <Option>Supermarket</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>400</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>105</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>220</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>20</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>240</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>Sales Floor Area (SFA)</ApprovedAlternateMetric>
+      <DefaultMultiplier>2</DefaultMultiplier>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S3 Bakery oven</Special1>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2983</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>4284</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.2</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.09</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H1</Category>
+      <Name>Restaurant</Name>
+      <Options>
+        <Option>Cafe</Option>
+        <Option>Canteen</Option>
+        <Option>Eating place</Option>
+        <Option>Food courts</Option>
+        <Option>Mess - junior ranks - accommodation only</Option>
+        <Option>Mess - junior ranks - catering only</Option>
+        <Option>Mess - officers - catering only</Option>
+        <Option>Mess - wos &amp; sgts - catering only</Option>
+        <Option>Motorway service areas</Option>
+        <Option>NAAFI</Option>
+        <Option>Restaurant</Option>
+        <Option>Takeaway restaurant</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>90</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>370</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>49.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>70.3</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>119.8</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0.2</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.3</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>3060</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>5712</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.37</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.17</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H2</Category>
+      <Name>Bar, Pub Or Licensed Club</Name>
+      <Options>
+        <Option>Discotheque</Option>
+        <Option>Night club</Option>
+        <Option>Public house</Option>
+        <Option>Wine bar</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>130</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>350</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>71.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>66.5</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>138</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.4</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>3060</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>5712</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.37</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.17</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H3</Category>
+      <Name>Hotel</Name>
+      <Options>
+        <Option>Hotel</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>105</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>330</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>57.8</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>62.7</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>120.5</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.45</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H4</Category>
+      <Name>Cultural Activities</Name>
+      <Options>
+        <Option>Art Gallery</Option>
+        <Option>Arts centre</Option>
+        <Option>Library</Option>
+        <Option>Museum</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>70</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>200</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>38.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>38</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>76.5</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2040</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>4284</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.45</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.2</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H5</Category>
+      <Name>Entertainment Halls</Name>
+      <Options>
+        <Option>Auditorium</Option>
+        <Option>Bingo hall</Option>
+        <Option>Casino</Option>
+        <Option>Cinema</Option>
+        <Option>Concert hall</Option>
+        <Option>Dancing school</Option>
+        <Option>Entertainment hall</Option>
+        <Option>Theatre</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>150</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>420</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>82.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>79.8</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>162.3</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2856</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>5712</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.41</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.19</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H6</Category>
+      <Name>Swimming Pool Centre</Name>
+      <Options>
+        <Option>Swimming pool</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>245</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>1130</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>134.8</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>214.7</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>349.5</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2856</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>4641</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.27</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.13</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H7</Category>
+      <Name>Fitness And Health Centre</Name>
+      <Options>
+        <Option>Fitness centre</Option>
+        <Option>Gymnasium</Option>
+        <Option>Health club</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>160</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>440</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>88</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>83.6</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>171.6</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.4</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2754</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>5355</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.39</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.18</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>H8</Category>
+      <Name>Dry Sports And Leisure Facility</Name>
+      <Options>
+        <Option>Ice skating rinks</Option>
+        <Option>Indoor bowling</Option>
+        <Option>Leisure centre</Option>
+        <Option>Pavilion/sports clubhouse</Option>
+        <Option>Racecourse</Option>
+        <Option>Roller skating rinks</Option>
+        <Option>Snooker club</Option>
+        <Option>Sports centre with pool</Option>
+        <Option>Sports ground</Option>
+        <Option>Sports ground buildings</Option>
+        <Option>Sports hall</Option>
+        <Option>Squash club</Option>
+        <Option>Tennis courts etc</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>95</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>330</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>52.3</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>62.7</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>115</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S4 Sports flood lighting</Special1>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2754</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>5355</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.39</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.18</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S1</Category>
+      <Name>Covered Car Park</Name>
+      <Options>
+        <Option>Covered parking</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>20</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>0</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>11</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>0</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>11</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>4284</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>8568</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.41</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S10</Category>
+      <Name>Laboratory Or Operating Theatre</Name>
+      <Options>
+        <Option>Laboratory</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>160</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>160</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>88</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>30.4</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>118.4</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S5 Furnace, heat treatment or forming process</Special1>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2040</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>8568</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>1.05</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.43</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S2</Category>
+      <Name>Public Buildings With Light Usage</Name>
+      <Options>
+        <Option>Beach huts</Option>
+        <Option>Bus depot</Option>
+        <Option>Cemetery</Option>
+        <Option>Church</Option>
+        <Option>Church with cemetery</Option>
+        <Option>Parking building</Option>
+        <Option>Place of worship</Option>
+        <Option>Places of religious worship</Option>
+        <Option>Public lavatory</Option>
+        <Option>Sacred place</Option>
+        <Option>Scout or Guide hut</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>20</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>105</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>11</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>20</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>31</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2040</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>3672</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.34</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.16</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S3</Category>
+      <Name>Schools And Seasonal Public Buildings</Name>
+      <Options>
+        <Option>Clubhouse</Option>
+        <Option>Community centre</Option>
+        <Option>Community facilities</Option>
+        <Option>Community meeting place</Option>
+        <Option>Creche</Option>
+        <Option>Creche/childcare facility</Option>
+        <Option>Day centre</Option>
+        <Option>Dogs racecourse</Option>
+        <Option>Hunting and fishing</Option>
+        <Option>Marina or sailing club</Option>
+        <Option>Nursery or kindergarten</Option>
+        <Option>Pre-school facility</Option>
+        <Option>Primary and secondary teaching establishments</Option>
+        <Option>Primary school</Option>
+        <Option>Private school</Option>
+        <Option>Reserves centre</Option>
+        <Option>School</Option>
+        <Option>Secondary school</Option>
+        <Option>Social clubs</Option>
+        <Option>Special school</Option>
+        <Option>Speedway</Option>
+        <Option>State primary school</Option>
+        <Option>State school</Option>
+        <Option>State secondary school</Option>
+        <Option>Unlicensed club</Option>
+        <Option>Village hall</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>40</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>150</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>22</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>28.5</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>50.5</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>1400</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>3672</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.62</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.27</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S4</Category>
+      <Name>University Campus</Name>
+      <Options>
+        <Option>Classroom</Option>
+        <Option>Lecture hall</Option>
+        <Option>Sixth form college</Option>
+        <Option>University</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>80</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>240</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>44</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>45.6</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>89.6</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S5 Furnace, heat treatment or forming process</Special1>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2450</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>5355</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.48</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.22</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S5</Category>
+      <Name>Clinic</Name>
+      <Options>
+        <Option>Clinic or health centre</Option>
+        <Option>Dentist's surgery</Option>
+        <Option>Doctor's surgery</Option>
+        <Option>Health Centres and Clinics</Option>
+        <Option>Medical and dental centre combined</Option>
+        <Option>Medical centre</Option>
+        <Option>Mortuary</Option>
+        <Option>Occupational health centre</Option>
+        <Option>Out patient treatment establishments</Option>
+        <Option>Primary health care buildings</Option>
+        <Option>Surgery or clinic</Option>
+        <Option>Veterinary surgery</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>70</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>200</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>38.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>38</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>76.5</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2040</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>4284</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.45</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.2</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S6</Category>
+      <Name>Hospital - Clinical And Research</Name>
+      <Options>
+        <Option>General Acute Hospital</Option>
+        <Option>Teaching/Specialist Hospital</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>90</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>420</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>49.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>79.8</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>129.3</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S5 Furnace, heat treatment or forming process</Special1>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S7</Category>
+      <Name>Long Term Residential</Name>
+      <Options>
+        <Option>Community and Mental Health Hospitals</Option>
+        <Option>Detention</Option>
+        <Option>Detention centre</Option>
+        <Option>Home</Option>
+        <Option>Hospital</Option>
+        <Option>Hostel</Option>
+        <Option>Nursing home</Option>
+        <Option>Nursing residential homes and hostels</Option>
+        <Option>Prison</Option>
+        <Option>Remand centre</Option>
+        <Option>Young offenders instit'n</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>65</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>420</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>35.8</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>79.8</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>115.6</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S8</Category>
+      <Name>General Accommodation</Name>
+      <Options>
+        <Option>Boarding/guesthouse</Option>
+        <Option>Cadet hut</Option>
+        <Option>Holiday accommodation</Option>
+        <Option>Holiday centre</Option>
+        <Option>Holiday let</Option>
+        <Option>Junior ranks accommodation</Option>
+        <Option>Mess - officers - accommodation only</Option>
+        <Option>Mess - officers - catering &amp; accommodation</Option>
+        <Option>Mess - wos &amp; sgts - accommodation only</Option>
+        <Option>Mess - wos &amp; sgts - catering &amp; accommodation</Option>
+        <Option>Mod civilian accommodation</Option>
+        <Option>Official service residence</Option>
+        <Option>School boarding house</Option>
+        <Option>Service families accommodation - officers - type 1</Option>
+        <Option>Transient accommodation - other ranks</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>60</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>300</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>33</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>57</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>90</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2940</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>4284</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.21</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.1</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>S9</Category>
+      <Name>Emergency Services</Name>
+      <Options>
+        <Option>Ambulance station</Option>
+        <Option>Emergency services</Option>
+        <Option>Fire station</Option>
+        <Option>Lifeboat station</Option>
+        <Option>Police station</Option>
+        <Option>Police station (MOD police)</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>70</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>390</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>38.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>74.1</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>112.6</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>W1</Category>
+      <Name>Public waiting or circulation</Name>
+      <Options>
+        <Option>Bus station/train station/seaport terminal</Option>
+        <Option>Dock, wharf</Option>
+        <Option>Railway premise</Option>
+        <Option>Railway station</Option>
+        <Option>Shopping centre mall</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>30</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>120</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>16.5</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>22.8</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>39.3</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>W2</Category>
+      <Name>Terminal</Name>
+      <Options>
+        <Option>Airport terminals</Option>
+        <Option>Armoury</Option>
+        <Option>Railway mixed use</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>75</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>200</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>41.3</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>38</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>79.3</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>W3</Category>
+      <Name>Workshop</Name>
+      <Options>
+        <Option>Comms facility</Option>
+        <Option>Contractors sheds etc</Option>
+        <Option>Crematorium</Option>
+        <Option>Fixed wing aircraft - repair</Option>
+        <Option>Garage</Option>
+        <Option>Gas/decontamination chamber</Option>
+        <Option>Helicopters - repair</Option>
+        <Option>Manufacturing premises excluding process energy use</Option>
+        <Option>Observatories</Option>
+        <Option>Petrol filling station</Option>
+        <Option>Railway engine shed</Option>
+        <Option>Recording studios</Option>
+        <Option>Ship/submarine repair/refit</Option>
+        <Option>Sorting office</Option>
+        <Option>Telephone exchange</Option>
+        <Option>Vehicle repair workshop</Option>
+        <Option>Vehicle services</Option>
+        <Option>Workshop</Option>
+        <Option>Workshops/maintenance depot</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>35</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>180</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>19.3</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>34.2</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>53.5</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S5 Furnace, heat treatment or forming process</Special1>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2040</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>3672</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.34</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.16</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>W4</Category>
+      <Name>Storage Facility</Name>
+      <Options>
+        <Option>Fixed wing aircraft - storage</Option>
+        <Option>Garages</Option>
+        <Option>Helicopters - storage</Option>
+        <Option>Road haulage depot</Option>
+        <Option>Storage depot</Option>
+        <Option>Vehicle storage</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>35</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>160</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>19.3</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>30.4</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>49.7</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.7</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <BenchmarkHoursPerYear>2040</BenchmarkHoursPerYear>
+      <MaximumAllowedHoursPerYear>4284</MaximumAllowedHoursPerYear>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0.45</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0.2</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+    <Benchmark>
+      <Category>W5</Category>
+      <Name>Cold Storage</Name>
+      <Options>
+        <Option>Cold store</Option>
+      </Options>
+      <TypicalElectricityEnergyDensity>145</TypicalElectricityEnergyDensity>
+      <TypicalFossilThermalEnergyDensity>80</TypicalFossilThermalEnergyDensity>
+      <TypicalElectricityCO2Density>79.8</TypicalElectricityCO2Density>
+      <TypicalFossilThermalCO2Density>15.2</TypicalFossilThermalCO2Density>
+      <TypicalTotalCO2Density>95</TypicalTotalCO2Density>
+      <PrimaryMetric>Gross floor area measured as RICS Gross Internal Area (GIA)</PrimaryMetric>
+      <ApprovedAlternateMetric>(none)</ApprovedAlternateMetric>
+      <PercentOfElectricityBenchmarkProRatedToIndex>0</PercentOfElectricityBenchmarkProRatedToIndex>
+      <PercentOfFossilThermalBenchmarkProRatedToIndex>0.55</PercentOfFossilThermalBenchmarkProRatedToIndex>
+      <Special1>S6 Blast chilling or freezing</Special1>
+      <DefinitionOfHoursPerWeekInThisSector>Total equivalent hours of full use/occupancy per year</DefinitionOfHoursPerWeekInThisSector>
+      <PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>0</PercentageIncreaseInElectricityBenchmarkAtMaximumAllowed>
+      <PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>0</PercentageIncreaseInFossilThermalBenchmarkAtMaximumAllowed>
+    </Benchmark>
+  </Benchmarks>
+</CIP>
